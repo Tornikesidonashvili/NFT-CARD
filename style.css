@@ -1,0 +1,125 @@
+.main{
+    width: 350px;
+    height: 596px;
+    background-color: #15263F;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    flex-direction: column;
+     
+   
+
+}
+body{
+    
+    background-color: #0D192C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   font-family: sans-serif;
+   
+}
+.photo{
+ width: 302px;
+ height: 302px;
+ border-radius: 30px;
+ padding: 24px;
+ margin: 0;
+} 
+ 
+.text{
+    color: white;
+     font-size: 22px;
+     font-weight: 600px;
+     padding-left: 24px;
+     padding-bottom: 20px;
+     margin: 0;
+    
+    
+     
+     
+}
+.text1{
+ color: #8BACD9;
+  font-weight: 300px;
+  font-size: 18px;
+  padding-left: 18px;
+  margin: 0;
+
+  
+}
+.photo2{
+  width: 11px;
+  height: 18px;
+  padding-left: 18px;
+     
+
+}
+.text3{
+ color: #00FFF8;
+ font-size: 16px;
+ font-weight: 600;
+
+
+}
+.eth{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+   width: 110px;
+}
+.photo3{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    
+}
+.text4{
+    color: #8BACD9;
+    font-size: 16px;
+    
+}
+.sati{
+    display: flex;
+    align-items: center;
+    
+}
+.main1{
+display: flex;
+width: 90%;
+justify-content: space-between;
+
+}
+.gamotoveba{
+    width: 302px;
+    height: 1px;
+    background-color:  #2E405A;
+    margin: auto;
+    
+    
+}
+.dasruleba{
+ display: flex; 
+ align-items: center;
+ padding-left: 30px;
+ padding-bottom: 20px;
+
+} 
+
+.photo4{
+    height: 33px;
+    width: 33px;
+    border-radius: 100px;
+    border: solid white 1px;
+}
+.text5{
+    font-size: 16px;
+    color:  #8BACD9;
+   padding-left: 20px;
+
+    
+}
+.feri{
+    color: white;
+}
